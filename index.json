@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-rupta",
+  "versions": [
+    {
+      "commit": "6fe68085f7bb9428a773b4c90fda30dc5ca3414a",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:50:52.993692+00:00"
+    }
+  ]
+}
